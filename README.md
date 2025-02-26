@@ -3,7 +3,6 @@
 <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Sonu Sharma</h1>
-<h3 align="center">Innovative problem-solver, blending technical skills, creativity, and collaboration</h3>
 
 <p align="center">
   <img src="YOUR_GIF_URL_HERE" width="300" align="right"/>
